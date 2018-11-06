@@ -1,2 +1,3 @@
 Cold and dry but everything is fine
 However I have added another line
+This time I added a third line
